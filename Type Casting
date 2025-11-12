@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a=40;
+float b;
+b=a/40;
+printf("%.2f",b);
+return 0;
+}
